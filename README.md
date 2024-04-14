@@ -1,1 +1,3 @@
 # nezar_course
+
+## Notes
